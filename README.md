@@ -96,18 +96,6 @@ khayr  = "make tools that benefit others"
 
 <p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamzephlol&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Zeph's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzephlol&layout=compact&langs_count=8&theme=synthwave&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=iamzephlol&theme=synthwave&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
 ## >_ cat corner
 
