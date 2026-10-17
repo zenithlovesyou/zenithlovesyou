@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/iamzephlol/iamzephlol/main/gif.gif" width="260" alt="Türkiye flag" />
 
 <a href="https://github.com/iamzephlol">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=true&width=640&height=28&lines=Selamun+Aleykum!+I+am+Zeph.+meow;Turkish+developer+%7C+open-source+builder;Striving+to+become+one+of+the+best+Muslim+programmers;Building+useful+tools+for+the+community+InshaAllah;C%2B%2B+%7C+Rust+%7C+Lua+%7C+Python+%7C+and+more" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=true&width=640&height=28&lines=Selamun+Aleykum!+I+am+Zenith.+meow;Turkish+developer+%7C+open-source+builder;Striving+to+become+one+of+the+best+Muslim+programmers;Building+useful+tools+for+the+community+InshaAllah;C%2B%2B+%7C+Rust+%7C+Lua+%7C+Python+%7C+and+more" alt="Typing animation" />
 </a>
 
 ![Made in Türkiye](https://img.shields.io/badge/Made%20in-T%C3%BCrkiye-E30A17?style=flat-square)
