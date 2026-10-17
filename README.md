@@ -14,13 +14,13 @@
 ![Faith Driven](https://img.shields.io/badge/Faith-Driven-00a86b?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open-Source-ff2e97?style=flat-square&logo=opensourceinitiative&logoColor=white)
 ![Arch btw](https://img.shields.io/badge/I%20use-Arch%20btw-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Cats](https://img.shields.io/badge/Powered%20by-Cats%20%F0%9F%90%BE-ffb3d9?style=flat-square)
+![Cats](https://img.shields.io/badge/Powered%20by-Cats-ffb3d9?style=flat-square)
 
 </div>
 
-<p align="center">🐾 ✦ ･ﾟ: *✧･ﾟ:* ✦ 🐾</p>
+<p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ about ฅ^•ﻌ•^ฅ
+## >_ about
 
 ```bash
 zeph@arch:~$ zephfetch
@@ -37,12 +37,12 @@ zeph@arch:~$ zephfetch
 
 Bismillah. I'm a Turkish developer on a mission to become one of the best Muslim programmers I can be, and to use that skill to build open-source tools that actually help people.
 
-- 🛠️ **I build:** cross-platform system utilities, lightweight CLI tools, retro web apps, and games
-- 🌍 **Open-source philosophy:** code is best when it's shared. I treat open source as *sadaqah jariyah*, something that keeps benefiting others long after it's written
-- 🔭 **Current focus:** systems programming (C / C++ / Rust), game dev (Raylib, LÖVE, Ursina), and polishing small, fast, dependency-light tools
-- 🌱 **Always learning:** deeper low-level knowledge, cleaner architecture, better documentation
-- 🤝 **Open to:** collaborating on open-source projects, ideas, and code reviews
-- 🐱 **Fun fact:** my code reviews are 40% cat pictures
+- **I build:** cross-platform system utilities, lightweight CLI tools, retro web apps, and games
+- **Open-source philosophy:** code is best when it's shared. I treat open source as *sadaqah jariyah*, something that keeps benefiting others long after it's written
+- **Current focus:** systems programming (C / C++ / Rust), game dev (Raylib, LÖVE, Ursina), and polishing small, fast, dependency-light tools
+- **Always learning:** deeper low-level knowledge, cleaner architecture, better documentation
+- **Open to:** collaborating on open-source projects, ideas, and code reviews
+- **Fun fact:** my code reviews are 40% cat pictures
 
 ```toml
 [principles]
@@ -52,9 +52,9 @@ sabr   = "ship consistently, stay patient"
 khayr  = "make tools that benefit others"
 ```
 
-<p align="center">🐾 ✦ ･ﾟ: *✧･ﾟ:* ✦ 🐾</p>
+<p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ stack ₍ᐢ•ﻌ•ᐢ₎
+## >_ stack
 
 ### Languages
 
@@ -103,15 +103,15 @@ khayr  = "make tools that benefit others"
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnometerminal&logoColor=00ff9c)
 
-<p align="center">🐾 ✦ ･ﾟ: *✧･ﾟ:* ✦ 🐾</p>
+<p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ projects 🐱
+## >_ projects
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| 🖥️ **[zephfetch](https://github.com/iamzephlol/zephfetch)** | Minimal, fast system info fetcher for your terminal, with a retro look. | `CLI` `System` |
-| 📄 **[dat](https://github.com/iamzephlol/dat)** | Tiny command-line utility built to be simple, fast, and dependency-light. | `CLI` `Utility` |
-| 🌐 **[zephtranslate](https://github.com/iamzephlol/zephtranslate)** | Lightweight translation tool for quick, no-fuss translations. | `Translation` `Utility` |
+| **[zephfetch](https://github.com/iamzephlol/zephfetch)** | Minimal, fast system info fetcher for your terminal, with a retro look. | `CLI` `System` |
+| **[dat](https://github.com/iamzephlol/dat)** | Tiny command-line utility built to be simple, fast, and dependency-light. | `CLI` `Utility` |
+| **[zephtranslate](https://github.com/iamzephlol/zephtranslate)** | Lightweight translation tool for quick, no-fuss translations. | `Translation` `Utility` |
 
 <!-- Add more rows here as you ship new projects. Replace the stack tags with each project's real language. -->
 
@@ -123,9 +123,9 @@ Optional: pinned-style repo cards. Uncomment and edit.
 </a>
 -->
 
-<p align="center">🐾 ✦ ･ﾟ: *✧･ﾟ:* ✦ 🐾</p>
+<p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ stats ₍ᐢ•ﻌ•ᐢ₎
+## >_ stats
 
 <div align="center">
 
@@ -136,15 +136,15 @@ Optional: pinned-style repo cards. Uncomment and edit.
 
 </div>
 
-<p align="center">🐾 ✦ ･ﾟ: *✧･ﾟ:* ✦ 🐾</p>
+<p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ cat corner ฅ^•ﻌ•^ฅ
+## >_ cat corner
 
 <div align="center">
 
 <img src="https://cataas.com/cat/gif" width="260" alt="a random cat" />
 
-<sub>↑ a random cat, courtesy of cataas.com</sub>
+<sub>a random cat, courtesy of cataas.com</sub>
 
 ```text
   |\__/,|   (`\
@@ -155,9 +155,9 @@ Optional: pinned-style repo cards. Uncomment and edit.
 
 </div>
 
-<p align="center">🐾 ✦ ･ﾟ: *✧･ﾟ:* ✦ 🐾</p>
+<p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ connect ₍ᐢ•ﻌ•ᐢ₎
+## >_ connect
 
 <div align="center">
 
@@ -172,10 +172,10 @@ Optional: pinned-style repo cards. Uncomment and edit.
 
 **Let's build something together:**
 
-- 💡 Have an idea for a useful open-source tool? Open an issue or start a discussion on any of my repos
-- 🔧 PRs, bug reports, and feedback are always welcome
-- 🎮 Interested in game dev, retro web, or CLI tooling? I'd love to collaborate
-- 🐾 Cat pictures are also accepted as a form of feedback
+- Have an idea for a useful open-source tool? Open an issue or start a discussion on any of my repos
+- PRs, bug reports, and feedback are always welcome
+- Interested in game dev, retro web, or CLI tooling? I'd love to collaborate
+- Cat pictures are also accepted as a form of feedback
 
 <br/>
 
@@ -187,7 +187,7 @@ $ echo "Bismillah. Build. Ship. Learn. Pet cat. Repeat."
 
 ![Profile views](https://komarev.com/ghpvc/?username=iamzephlol&style=flat-square&color=ff2e97&label=VISITORS)
 
-<sub>Built with sabr, tawakkul, and too much çay ☕ and a cat on the keyboard 🐈</sub>
+<sub>Built with sabr, tawakkul, and too much çay, with a cat on the keyboard.</sub>
 
 <br/>
 
