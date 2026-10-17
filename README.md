@@ -20,29 +20,8 @@
 
 <p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
-## >_ about
-
-```bash
-zeph@arch:~$ zephfetch
-
-   /\_/\        zeph@arch
-  ( ^.^ )       ──────────────────────────
-   > ᴗ <        os       arch linux (btw)
-  /|   |\       wm       hyprland
- (_|   |_)      editor   neovim
-                langs    c++ · rust · lua · python
-                mission  ihsan, one commit at a time
-                mood     meow
-```
 
 Bismillah. I'm a Turkish developer on a mission to become one of the best Muslim programmers I can be, and to use that skill to build open-source tools that actually help people.
-
-- **I build:** cross-platform system utilities, lightweight CLI tools, retro web apps, and games
-- **Open-source philosophy:** code is best when it's shared. I treat open source as *sadaqah jariyah*, something that keeps benefiting others long after it's written
-- **Current focus:** systems programming (C / C++ / Rust), game dev (Raylib, LÖVE, Ursina), and polishing small, fast, dependency-light tools
-- **Always learning:** deeper low-level knowledge, cleaner architecture, better documentation
-- **Open to:** collaborating on open-source projects, ideas, and code reviews
-- **Fun fact:** my code reviews are 40% cat pictures
 
 ```toml
 [principles]
@@ -113,15 +92,7 @@ khayr  = "make tools that benefit others"
 | **[dat](https://github.com/iamzephlol/dat)** | Tiny command-line utility built to be simple, fast, and dependency-light. | `CLI` `Utility` |
 | **[zephtranslate](https://github.com/iamzephlol/zephtranslate)** | Lightweight translation tool for quick, no-fuss translations. | `Translation` `Utility` |
 
-<!-- Add more rows here as you ship new projects. Replace the stack tags with each project's real language. -->
 
-<!--
-Optional: pinned-style repo cards. Uncomment and edit.
-
-<a href="https://github.com/iamzephlol/zephfetch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamzephlol&repo=zephfetch&theme=synthwave&hide_border=true" alt="zephfetch" />
-</a>
--->
 
 <p align="center">░▒▓█ ──────────────── █▓▒░</p>
 
@@ -146,40 +117,7 @@ Optional: pinned-style repo cards. Uncomment and edit.
 
 <sub>a random cat, courtesy of cataas.com</sub>
 
-```text
-  |\__/,|   (`\
-  |_ _  |.--.) )
-  ( T   )     /
- (((^_(((/(((_/
-```
 
-</div>
-
-<p align="center">░▒▓█ ──────────────── █▓▒░</p>
-
-## >_ connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-iamzephlol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamzephlol)
-<!-- Uncomment and fill in whichever you use:
-[![Discord](https://img.shields.io/badge/Discord-YOUR_TAG-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-[![Email](https://img.shields.io/badge/Email-you%40example.com-ff2e97?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![X](https://img.shields.io/badge/X-@yourhandle-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
--->
-
-</div>
-
-**Let's build something together:**
-
-- Have an idea for a useful open-source tool? Open an issue or start a discussion on any of my repos
-- PRs, bug reports, and feedback are always welcome
-- Interested in game dev, retro web, or CLI tooling? I'd love to collaborate
-- Cat pictures are also accepted as a form of feedback
-
-<br/>
-
-<div align="center">
 
 ```text
 $ echo "Bismillah. Build. Ship. Learn. Pet cat. Repeat."
@@ -189,8 +127,3 @@ $ echo "Bismillah. Build. Ship. Learn. Pet cat. Repeat."
 
 <sub>Built with sabr, tawakkul, and too much çay, with a cat on the keyboard.</sub>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/iamzephlol/iamzephlol/main/gif.gif" width="480" alt="Türkiye flag" />
-
-</div>
