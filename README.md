@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iamzephlol/iamzephlol/main/gif.gif" width="480" alt="Türkiye flag" />
-
-<br/>
+<img src="https://raw.githubusercontent.com/iamzephlol/iamzephlol/main/gif.gif" width="260" alt="Türkiye flag" />
 
 <a href="https://github.com/iamzephlol">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Selamun+Aleykum!+I+am+Zeph.+meow;Turkish+developer+%7C+open-source+builder;Striving+to+become+one+of+the+best+Muslim+programmers;Building+useful+tools+for+the+community+InshaAllah;C%2B%2B+%7C+Rust+%7C+Lua+%7C+Python+%7C+and+more" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=true&width=640&height=28&lines=Selamun+Aleykum!+I+am+Zeph.+meow;Turkish+developer+%7C+open-source+builder;Striving+to+become+one+of+the+best+Muslim+programmers;Building+useful+tools+for+the+community+InshaAllah;C%2B%2B+%7C+Rust+%7C+Lua+%7C+Python+%7C+and+more" alt="Typing animation" />
 </a>
-
-<br/>
 
 ![Made in Türkiye](https://img.shields.io/badge/Made%20in-T%C3%BCrkiye-E30A17?style=flat-square)
 ![Faith Driven](https://img.shields.io/badge/Faith-Driven-00a86b?style=flat-square)
@@ -17,9 +13,6 @@
 ![Cats](https://img.shields.io/badge/Powered%20by-Cats-ffb3d9?style=flat-square)
 
 </div>
-
-<p align="center">░▒▓█ ──────────────── █▓▒░</p>
-
 
 Bismillah. I'm a Turkish developer on a mission to become one of the best Muslim programmers I can be, and to use that skill to build open-source tools that actually help people.
 
@@ -31,12 +24,9 @@ sabr   = "ship consistently, stay patient"
 khayr  = "make tools that benefit others"
 ```
 
-<p align="center">░▒▓█ ──────────────── █▓▒░</p>
+### >_ stack
 
-## >_ stack
-
-### Languages
-
+**Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -57,8 +47,7 @@ khayr  = "make tools that benefit others"
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-
+**Frameworks**
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square)
 ![LÖVE](https://img.shields.io/badge/L%C3%96VE-E74C8C?style=flat-square)
 ![Ursina](https://img.shields.io/badge/Ursina-FF6B00?style=flat-square)
@@ -67,45 +56,30 @@ khayr  = "make tools that benefit others"
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Platforms & OS
-
+**Platforms**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-### Developer Tools
-
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnometerminal&logoColor=00ff9c)
 
-<p align="center">░▒▓█ ──────────────── █▓▒░</p>
-
-## >_ projects
+### >_ projects
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **[zephfetch](https://github.com/iamzephlol/zephfetch)** | Minimal, fast system info fetcher for your terminal, with a retro look. | `CLI` `System` |
-| **[dat](https://github.com/iamzephlol/dat)** | Tiny command-line utility built to be simple, fast, and dependency-light. | `CLI` `Utility` |
-| **[zephtranslate](https://github.com/iamzephlol/zephtranslate)** | Lightweight translation tool for quick, no-fuss translations. | `Translation` `Utility` |
-
-
-
-<p align="center">░▒▓█ ──────────────── █▓▒░</p>
-
-
-## >_ cat corner
+| **[zephfetch](https://github.com/iamzephlol/zephfetch)** | Minimal, fast system info fetcher for your terminal. | `CLI` `System` |
+| **[dat](https://github.com/iamzephlol/dat)** | Tiny, fast, dependency-light command-line utility. | `CLI` `Utility` |
+| **[zephtranslate](https://github.com/iamzephlol/zephtranslate)** | Lightweight translation tool for quick translations. | `Translation` `Utility` |
 
 <div align="center">
 
-<img src="https://cataas.com/cat/gif" width="260" alt="a random cat" />
-
-<sub>a random cat, courtesy of cataas.com</sub>
-
-
+<img src="https://cataas.com/cat/gif" width="120" alt="a random cat" />
 
 ```text
 $ echo "Bismillah. Build. Ship. Learn. Pet cat. Repeat."
@@ -115,3 +89,4 @@ $ echo "Bismillah. Build. Ship. Learn. Pet cat. Repeat."
 
 <sub>Built with sabr, tawakkul, and too much çay, with a cat on the keyboard.</sub>
 
+</div>
