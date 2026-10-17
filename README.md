@@ -189,6 +189,8 @@ $ echo "Bismillah. Build. Ship. Learn. Pet cat. Repeat."
 
 <sub>Built with sabr, tawakkul, and too much çay ☕ and a cat on the keyboard 🐈</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00e5ff,50:7b2ff7,100:ff2e97&section=footer" alt="footer" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/iamzephlol/iamzephlol/main/gif.gif" width="480" alt="Türkiye flag" />
 
 </div>
